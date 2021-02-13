@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839447061053",
+    "project_id": "dbitsmembers",
+    "storage_bucket": "dbitsmembers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839447061053:android:19cd4fbbbf2d0013614054",
+        "android_client_info": {
+          "package_name": "com.dbits_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839447061053-hilnnnkiucj488c14f0l82mgc2g81dkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVVg_Vt0HV2uYnTeEVJF4Scs6ZKcZSYTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839447061053-hilnnnkiucj488c14f0l82mgc2g81dkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
